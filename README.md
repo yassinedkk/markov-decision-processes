@@ -2,7 +2,7 @@
 
 A Python implementation of sequential decision-making methods for a stochastic Snakes and Ladders environment. The project compares model-based planning, empirical simulation and model-free reinforcement learning.
 
-**[Read the complete project report](https://github.com/yassinedkk/LDAT2M/blob/main/portfolio/markov-decision-processes/report.pdf)**
+**[Read the complete project report](report.pdf)**
 
 ## Project overview
 
